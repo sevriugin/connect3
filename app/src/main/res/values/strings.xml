@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Connect 3 Game</string>
+    <string name="game_board">Game Board</string>
+    <string name="red">Red</string>
+    <string name="yellow">Yellow</string>
+    <string name="play_again">Play again</string>
+    <string name="red_has_won">Red has won!</string>
+    <string name="yellow_has_won">Yellow has won!</string>
+    <string name="start_new_game">Start new game</string>
+    <string name="wrong_move">Wrong move!</string>
+</resources>
